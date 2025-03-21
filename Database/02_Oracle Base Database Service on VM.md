@@ -131,11 +131,11 @@ Automation covers:
 
 | Responsibility | Oracle | You |
 |----------------|--------|-----|
-| Infrastructure (network, hardware) |  |  |
-| VM OS (patching, config) |  |  |
-| Oracle DB (install, backup, patching) |  |  |
-| Automation tools & console |  |  |
-| Data & schema |  |  |
+| Infrastructure (network, hardware) | YES | No |
+| VM OS (patching, config) | NO  |  YES |
+| Oracle DB (install, backup, patching) | NO  | Yes |
+| Automation tools & console | Yes | YES  |
+| Data & schema | No |  Yes |
 
 ---
 
