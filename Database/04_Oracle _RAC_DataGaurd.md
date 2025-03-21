@@ -1,6 +1,7 @@
 # **Oracle RAC** and **Oracle Data Guard**
 
-![image](https://github.com/user-attachments/assets/b7aca81a-851e-4004-962e-d26e84c29ae1)
+![image](https://github.com/user-attachments/assets/21df57cf-7eed-49e2-8068-83b4ab29377d)
+
 
 
 ---
