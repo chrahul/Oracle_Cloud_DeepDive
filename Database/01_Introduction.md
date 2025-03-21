@@ -17,7 +17,7 @@
    - High-performance Oracle DB platform for **mission-critical workloads**  
    - Think of it as a **crucible** where raw compute power and data converge
 
-4. 🏛 **Exadata Cloud@Customer (ExaCC)**  
+4.  **Exadata Cloud@Customer (ExaCC)**  
    - Brings the Exadata **tapestry** to your data center  
    - Best for regulatory compliance and data sovereignty needs
 
