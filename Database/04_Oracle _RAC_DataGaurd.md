@@ -86,4 +86,4 @@ Both are part of Oracle’s **Maximum Availability Architecture**, and many ente
 
 ---
 
-Would you like a diagram showing how RAC and Data Guard work together in a multi-tier architecture?
+
