@@ -5,7 +5,7 @@
 
 In Oracle Base Database VM systems, storage is handled using **OCI Block Volumes**. These are similar to **AWS EBS volumes** but come with Oracle-specific enhancements.
 
-### 🔹 Two Storage Architecture Options:
+###  Two Storage Architecture Options:
 | Architecture | Description |
 |-------------|-------------|
 | **ASM (Automatic Storage Management)** | Oracle-managed storage layer, better for performance and scalability. Default for most deployments, required for **RAC (Real Application Clusters)**. |
@@ -15,7 +15,7 @@ In Oracle Base Database VM systems, storage is handled using **OCI Block Volumes
 - **DATA**: For main database files.
 - **RECO**: For recovery-related files (e.g., archived logs, flashback logs).
 
-### 🔹 Example:
+###  Example:
 > You provision a **2-node RAC DB system**, which **must use ASM**. The system automatically sets up two disk groups:
 > - **80% of your block volume** goes to the DATA disk group.
 > - **20% goes to the RECO disk group.**
