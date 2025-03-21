@@ -38,6 +38,9 @@ You have a backup office (standby database) in a different city. If your main of
 
 ---
 
+![image](https://github.com/user-attachments/assets/a08ea2fe-26e1-4b88-8cc5-3012048d4a12)
+
+
 ## Key Difference
 
 | Feature | Oracle RAC | Oracle Data Guard |
