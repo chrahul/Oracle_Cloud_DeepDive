@@ -143,15 +143,7 @@ If you have Data Guard configured, you can offload backup tasks to the standby d
 
 ---
 
-### **End of Lesson**
 
-By following this guide, you can:
-
-- Understand all backup options  
-- Enable and manage backups through the OCI console  
-- Perform restores based on business need  
-- Offload backup tasks to the standby database  
-- Ensure high availability and minimal data loss in case of failure
 
 ---
 
